@@ -8,7 +8,7 @@ body {
     min-width: 800px;
     margin-left: auto;
     margin-right: auto;
-    background-image:url(Images/4850268.jpg);
+    background-image:url(4850268.jpg);
     margin-top: 50px;
     
 }
@@ -114,5 +114,6 @@ body {
     margin-bottom: 20px;
     color: #ffffff;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
 
 }
